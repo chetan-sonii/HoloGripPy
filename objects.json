@@ -1,0 +1,81 @@
+{
+    "objects": [
+        {
+            "id": "cube",
+            "name": "Cube",
+            "category": "Geometry",
+            "type": "model",
+            "file": "assets/geometry/cube.glb"
+        },
+        {
+            "id": "sphere",
+            "name": "Sphere",
+            "category": "Geometry",
+            "type": "model",
+            "file": "assets/geometry/sphere.glb"
+        },
+        {
+            "id": "cylinder",
+            "name": "Cylinder",
+            "category": "Geometry",
+            "type": "model",
+            "file": "assets/geometry/cylinder.glb"
+        },
+        {
+            "id": "cone",
+            "name": "Cone",
+            "category": "Geometry",
+            "type": "model",
+            "file": "assets/geometry/cone.glb"
+        },
+        {
+            "id": "pyramid",
+            "name": "Pyramid",
+            "category": "Geometry",
+            "type": "model",
+            "file": "assets/geometry/pyramid.glb"
+        },
+        {
+            "id": "simple_car",
+            "name": "Simple Car",
+            "category": "Vehicles",
+            "type": "model",
+            "file": "assets/vehicles/simple_car.glb"
+        },
+        {
+            "id": "hydrogen_atom",
+            "name": "Hydrogen Atom",
+            "category": "Atoms",
+            "type": "model",
+            "file": "assets/atoms/hydrogen_atom.glb"
+        },
+        {
+            "id": "carbon_atom",
+            "name": "Carbon Atom",
+            "category": "Atoms",
+            "type": "model",
+            "file": "assets/atoms/carbon_atom.glb"
+        },
+        {
+            "id": "water",
+            "name": "Water (H2O)",
+            "category": "Chemistry",
+            "type": "model",
+            "file": "assets/chemistry/water.glb"
+        },
+        {
+            "id": "methane",
+            "name": "Methane (CH4)",
+            "category": "Chemistry",
+            "type": "model",
+            "file": "assets/chemistry/methane.glb"
+        },
+        {
+            "id": "carbon_dioxide",
+            "name": "Carbon Dioxide (CO2)",
+            "category": "Chemistry",
+            "type": "model",
+            "file": "assets/chemistry/carbon_dioxide.glb"
+        }
+    ]
+}
